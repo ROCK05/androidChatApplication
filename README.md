@@ -9,9 +9,6 @@
 ### Sign In
 <img src="https://user-images.githubusercontent.com/76915666/168600557-2c53a688-7e11-4656-8ebd-63efb29a9546.jpg" width="200">
 
-### Select User
-<img src="https://user-images.githubusercontent.com/76915666/168600723-1ae4ce95-d629-4737-a7ec-3f51469ef923.jpg" width="200">
-
 ### Recent Conversation 
 <img src="https://user-images.githubusercontent.com/76915666/168600743-8ba46a3c-e3aa-403b-90f9-5496d47b5098.jpg" width="200">
 
